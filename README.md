@@ -2,7 +2,7 @@
 
 Project was created during study on Hyperskill.org.
 
-Game printing field in console.
+Game printing field in a console.
 
 Game is for 2 players
 
